@@ -1,0 +1,20 @@
+fastapi==0.120.4
+uvicorn==0.38.0
+sqlalchemy==2.0.44
+# psycopg2-binary==2.9.11
+alembic==1.17.1
+python-jose[cryptography]==3.5.0
+passlib[bcrypt]==1.7.4
+python-multipart==0.0.20
+redis==7.0.1
+pydantic-settings==2.11.0
+scikit-learn==1.5.2
+pandas==2.2.3
+numpy==1.26.4
+transformers==4.46.3
+torch==2.6.0
+faiss-cpu==1.9.0.post1
+openai==1.58.1
+pytest==8.3.4
+httpx==0.28.1
+asyncio==3.4.3
